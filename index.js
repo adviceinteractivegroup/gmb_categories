@@ -824,7 +824,7 @@ exports.categories = [
   {
     'category_id': 165,
     'title': 'gcid:bahai_house_of_worship',
-    'name': 'bahÃ'Ã house of worship'
+    'name': 'bahai house of worship'
   },
   {
     'category_id': 166,
