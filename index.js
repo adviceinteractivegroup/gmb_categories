@@ -824,7 +824,7 @@ exports.categories = [
   {
     'category_id': 165,
     'title': 'gcid:bahai_house_of_worship',
-    'name': 'bahÃ'Ã house of worship'
+    'name': 'bahai house of worship'
   },
   {
     'category_id': 166,
@@ -1954,17 +1954,17 @@ exports.categories = [
   {
     'category_id': 391,
     'title': 'gcid:childrens_clothing_store',
-    'name': 'children's clothing store'
+    'name': 'children\'s clothing store'
   },
   {
     'category_id': 392,
     'title': 'gcid:childrens_furniture_store',
-    'name': 'children's furniture store'
+    'name': 'children\'s furniture store'
   },
   {
     'category_id': 393,
     'title': 'gcid:childrens_hospital',
-    'name': 'children's hospital'
+    'name': 'children\'s hospital'
   },
   {
     'category_id': 394,
@@ -2074,7 +2074,7 @@ exports.categories = [
   {
     'category_id': 415,
     'title': 'gcid:city_clerks_office',
-    'name': 'city clerk's office'
+    'name': 'city clerk\'s office'
   },
   {
     'category_id': 416,
@@ -3039,7 +3039,7 @@ exports.categories = [
   {
     'category_id': 608,
     'title': 'gcid:drivers_license_office',
-    'name': 'driver's license office'
+    'name': 'driver\'s license office'
   },
   {
     'category_id': 609,
@@ -3574,7 +3574,7 @@ exports.categories = [
   {
     'category_id': 715,
     'title': 'gcid:farmers_market',
-    'name': 'farmers' market'
+    'name': 'farmers\' market'
   },
   {
     'category_id': 716,
@@ -4769,7 +4769,7 @@ exports.categories = [
   {
     'category_id': 954,
     'title': 'gcid:homeowners_association',
-    'name': 'homeowners' association'
+    'name': 'homeowners\' association'
   },
   {
     'category_id': 955,
@@ -5269,7 +5269,7 @@ exports.categories = [
   {
     'category_id': 1054,
     'title': 'gcid:jehovahs_witness_church',
-    'name': 'jehovah's witness kingdom hall'
+    'name': 'jehovah\'s witness kingdom hall'
   },
   {
     'category_id': 1055,
@@ -6244,7 +6244,7 @@ exports.categories = [
   {
     'category_id': 1249,
     'title': 'gcid:mens_clothing_store',
-    'name': 'men's clothing store'
+    'name': 'men\'s clothing store'
   },
   {
     'category_id': 1250,
@@ -8029,7 +8029,7 @@ exports.categories = [
   {
     'category_id': 1606,
     'title': 'gcid:public_defenders_office',
-    'name': 'public defender's office'
+    'name': 'public defender\'s office'
   },
   {
     'category_id': 1607,
@@ -8394,7 +8394,7 @@ exports.categories = [
   {
     'category_id': 1679,
     'title': 'gcid:renters_insurance_agency',
-    'name': 'renter's insurance agency'
+    'name': 'renter\'s insurance agency'
   },
   {
     'category_id': 1680,
@@ -8919,7 +8919,7 @@ exports.categories = [
   {
     'category_id': 1784,
     'title': 'gcid:sheriffs_department',
-    'name': 'sheriff's department'
+    'name': 'sheriff\'s department'
   },
   {
     'category_id': 1785,
@@ -9774,7 +9774,7 @@ exports.categories = [
   {
     'category_id': 1955,
     'title': 'gcid:tax_collectors_office',
-    'name': 'tax collector's office'
+    'name': 'tax collector\'s office'
   },
   {
     'category_id': 1956,
@@ -11119,17 +11119,17 @@ exports.categories = [
   {
     'category_id': 2224,
     'title': 'gcid:womens_clothing_store',
-    'name': 'women's clothing store'
+    'name': 'women\'s clothing store'
   },
   {
     'category_id': 2225,
     'title': 'gcid:obstetrics_gynecology_clinic',
-    'name': 'women's health clinic'
+    'name': 'women\'s health clinic'
   },
   {
     'category_id': 2226,
     'title': 'gcid:womens_shelter',
-    'name': 'women's shelter'
+    'name': 'women\'s shelter'
   },
   {
     'category_id': 2227,
@@ -12169,7 +12169,7 @@ exports.categories = [
   {
     'category_id': 2434,
     'title': 'gcid:boys_high_school',
-    'name': 'boys' high school'
+    'name': 'boys\' high school'
   },
   {
     'category_id': 2435,
@@ -12689,7 +12689,7 @@ exports.categories = [
   {
     'category_id': 2538,
     'title': 'gcid:children_amusement_center',
-    'name': 'children's amusement center'
+    'name': 'children\'s amusement center'
   },
   {
     'category_id': 2539,
@@ -12734,7 +12734,7 @@ exports.categories = [
   {
     'category_id': 2547,
     'title': 'gcid:childrens_museum',
-    'name': 'children's museum'
+    'name': 'children\'s museum'
   },
   {
     'category_id': 2548,
@@ -12744,7 +12744,7 @@ exports.categories = [
   {
     'category_id': 2549,
     'title': 'gcid:childrens_party_service',
-    'name': 'children's party service'
+    'name': 'children\'s party service'
   },
   {
     'category_id': 2550,
@@ -15039,7 +15039,7 @@ exports.categories = [
   {
     'category_id': 3008,
     'title': 'gcid:girls_secondary_school',
-    'name': 'girls' high school'
+    'name': 'girls\' high school'
   },
   {
     'category_id': 3009,
@@ -19624,7 +19624,7 @@ exports.categories = [
   {
     'category_id': 3925,
     'title': 'gcid:tenants_union',
-    'name': 'tenant's union'
+    'name': 'tenant\'s union'
   },
   {
     'category_id': 3926,
@@ -20384,7 +20384,7 @@ exports.categories = [
   {
     'category_id': 4077,
     'title': 'gcid:womens_organization',
-    'name': 'women's organization'
+    'name': 'women\'s organization'
   },
   {
     'category_id': 4078,
@@ -20424,7 +20424,7 @@ exports.categories = [
   {
     'category_id': 4085,
     'title': 'gcid:workers_club',
-    'name': 'workers' club'
+    'name': 'workers\' club'
   },
   {
     'category_id': 4086,
